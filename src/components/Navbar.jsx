@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../assets/logo.png';
+
 import { AiOutlineUser, AiOutlineSearch, AiOutlineHeart, AiOutlineShoppingCart } from 'react-icons/ai';
 
 const Navbar = () => {
