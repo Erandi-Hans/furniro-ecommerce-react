@@ -1,5 +1,9 @@
 import React from "react";
 import Navbar from "./components/Navbar";
+import Shop from "./pages/Shop";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Contacts from "./pages/Contacts";
 
 function App() {
   return (
@@ -7,6 +11,10 @@ function App() {
       <div>
         <Navbar />
         <Routers>
+          <Route path="/" element={<Home />} />
+          <Route path="/shop" element={<Shop />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/contact" element={<Contacts />} />
         </Routers>
       </div>
     </Router>
