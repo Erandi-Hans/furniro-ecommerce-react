@@ -78,11 +78,11 @@ Make sure you have **Node.js** installed on your computer.
 
 Open http://localhost:5173 (or the port specified in your terminal) in your browser to view the application!
 
-###Contributing
+### Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-###Fork the Project
+### Fork the Project
 
 Create your Feature Branch (git checkout -b feature/AmazingFeature)
 
@@ -92,8 +92,8 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-###License
+### License
 
 This project is open-source and available under the MIT License.
 
-Show some ❤️ by dropping a ⭐ if you like this project! 
+Show some Love by dropping a ⭐ if you like this project! 
