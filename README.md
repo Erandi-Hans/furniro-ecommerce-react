@@ -1,6 +1,6 @@
 # Furniro E-Commerce Website
 
-A pixel-perfect, fully responsive e-commerce web application built with **React JS** and **
+A pixel-perfect, fully responsive e-commerce web application built with **React JS** and **Tailwind CSS**, converted from a Figma design.
 
 ##  Live Demo
 
