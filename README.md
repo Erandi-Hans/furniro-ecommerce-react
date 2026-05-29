@@ -58,18 +58,23 @@ Make sure you have **Node.js** installed on your computer.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Erandi-Hans/furniro-ecommerce-react.git](https://github.com/Erandi-Hans/furniro-ecommerce-react.git)
+   ```
    
 2.**Navigate into the project directory:**
   ```bash
   cd furniro-ecommerce-react
+  ```
 
 3.**Install the dependencies:**
   ```bash
   npm install
+  ```
+
 
 4.**Start the development server:**
   ```bash
   npm run dev
+  ```
 
 Open http://localhost:5173 (or the port specified in your terminal) in your browser to view the application!
 
