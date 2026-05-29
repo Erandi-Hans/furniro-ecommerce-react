@@ -1,4 +1,4 @@
-# Furniro E-Commerce Websit
+# Furniro E-Commerce Website
 
 A pixel-perfect, fully responsive e-commerce web application built with **React JS** and **
 
@@ -8,7 +8,6 @@ A pixel-perfect, fully responsive e-commerce web application built with **React 
 
 ---
 
----
 
 ## Tech Stack & Tools
 
@@ -60,18 +59,18 @@ Make sure you have **Node.js** installed on your computer.
    git clone [https://github.com/Erandi-Hans/furniro-ecommerce-react.git](https://github.com/Erandi-Hans/furniro-ecommerce-react.git)
    ```
    
-2.**Navigate into the project directory:**
+2. **Navigate into the project directory:**
   ```bash
   cd furniro-ecommerce-react
   ```
 
-3.**Install the dependencies:**
+3 .**Install the dependencies:**
   ```bash
   npm install
   ```
 
 
-4.**Start the development server:**
+4. **Start the development server:**
   ```bash
   npm run dev
   ```
@@ -94,7 +93,6 @@ git checkout -b feature/AmazingFeature
 ```
 
 Commit your Changes
-
 ```bash
 git commit -m 'Add some AmazingFeature'
 ```
