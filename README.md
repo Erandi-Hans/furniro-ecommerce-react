@@ -56,10 +56,10 @@ Make sure you have **Node.js** installed on your computer.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Erandi-Hans/furniro-ecommerce-react.git](https://github.com/Erandi-Hans/furniro-ecommerce-react.git)
+   git clone https://github.com/Erandi-Hans/furniro-ecommerce-react.git
    ```
    
-2. **Navigate into the project directory:**
+3. **Navigate into the project directory:**
   ```bash
   cd furniro-ecommerce-react
   ```
