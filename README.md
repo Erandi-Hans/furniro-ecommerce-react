@@ -49,11 +49,11 @@ To ensure high performance, clean styles, and modern development standards, the 
 
 Follow these quick steps to run the Furniro project on your local machine.
 
-### Prerequisites
+## Prerequisites
 Make sure you have **Node.js** installed on your computer.
 - [Download Node.js](https://nodejs.org/)
 
-### Installation Steps
+## Installation Steps
 
 1. **Clone the repository:**
    ```bash
@@ -78,19 +78,35 @@ Make sure you have **Node.js** installed on your computer.
 
 Open http://localhost:5173 (or the port specified in your terminal) in your browser to view the application!
 
+---
+
 ### Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
+---
+
 ### Fork the Project
 
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Create your Feature Branch 
+```bash
+git checkout -b feature/AmazingFeature
+```
 
-Commit your Changes (git commit -m 'Add some AmazingFeature')
+Commit your Changes
 
-Push to the Branch (git push origin feature/AmazingFeature)
+```bash
+git commit -m 'Add some AmazingFeature'
+```
+
+Push to the Branch 
+```bash
+git push origin feature/AmazingFeature
+```
 
 Open a Pull Request
+
+---
 
 ### License
 
