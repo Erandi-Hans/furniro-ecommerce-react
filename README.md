@@ -55,7 +55,7 @@ Make sure you have **Node.js** installed on your computer.
 ## Installation Steps
 
 1. **Clone the repository:**
-   ```bash
+ ```bash
    git clone https://github.com/Erandi-Hans/furniro-ecommerce-react.git
    ```
    
